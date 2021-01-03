@@ -1,10 +1,10 @@
 ![Hello](https://raw.githubusercontent.com/LeMimit/LeMimit/main/gif/say_hello.gif)
 
-My name is Fabien Hermitte, I live in France. I work as a confirmed developer and designer specialized in Mobile.<br/> Curious by nature 🦝, I like to discover other languages and create tools to help others.
+My name is Fabien Hermitte, I live in France. I work as a confirmed developer and designer specialized in mobile development.<br/> Curious by nature 🦝, I like to discover other languages and create tools to help others.
 
 ## 🛒 Skills & Tools
 
-![Android](https://img.shields.io/badge/Mobile-Android-success.svg?logo=android&style=flat&color=3DDC84&logoWidth=15)
+![Android](https://img.shields.io/badge/Mobile-Android-success.svg?logo=android&style=flat&color=#86e6a9&logoWidth=15)
 
 ![Figma](https://img.shields.io/badge/Design-Figma-success.svg?logo=Figma&style=flat&color=F24E1E&logoWidth=15)
 ![Material Design](https://img.shields.io/badge/Design-Material_Design-success.svg?logo=material-design&style=flat&color=F24E1E&logoWidth=15&logoColor=ffffff)
