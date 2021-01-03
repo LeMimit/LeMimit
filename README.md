@@ -1,6 +1,6 @@
 ![Hello](https://raw.githubusercontent.com/LeMimit/LeMimit/main/gif/say_hello.gif)
 
-My name is Fabien Hermitte, I live in France. I work as a confirmed developer and designer specialized in Mobile. Curious by nature 🦝, I like to discover other languages and create tools to help others.
+My name is Fabien Hermitte, I live in France. I work as a confirmed developer and designer specialized in Mobile.<br/> Curious by nature 🦝, I like to discover other languages and create tools to help others.
 
 ## 🛒 Skills & Tools
 
